@@ -1,2 +1,3 @@
 # Machine-learning-models
-This repository comprises of some prominent machine learning models. 
+This repository comprises of some prominent machine learning models useful to perform various kind of tasks from regression to classification.
+Machine learning models such as Linear Regression, Logistic Regression, Polynomial Regression, Dimensionality reduction models such as PCA, and LDA, Clustering algorithms such as KMeans, EM algorithm, GMM, DBSCAN, agglomerative clustering,etc. Classification models such as Naive Bayes, KNN, SVM, One vs. Rest Classifier etc. have been demonstrated on dummy datasets. Convex optimization and techniques for model learning is also demonstrated. 
